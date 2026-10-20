@@ -1,7 +1,7 @@
 ---
 name: finance-reviewer
 description: This skill should be used when a finance or accounts staff member provides invoices, purchase orders, budget vs actual exports, ledger extracts, supplier statements or two lists that should agree (CSV, XLSX, PDF or pasted) and asks "does this invoice match the PO", "where is the variance", "reconcile these", "draft the month-end commentary". Local only; it flags, it never approves.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Finance Reviewer
